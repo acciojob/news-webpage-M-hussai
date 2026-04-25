@@ -5,7 +5,8 @@ body{
 .header{
 	background-color:#011e29;
 	text-align:center;
-	padding:2px;
+	padding:20px;
+	
 	color:white;
 	font-family:sans-serif;
 }
